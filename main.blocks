@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable type="RadioMessage" id="={LMGruULX=A{*G.`/yh">0message1</variable></variables><block type="pxt-on-start" id="1nj4Rv,|?[p;64dDq(TX" x="0" y="0"><statement name="HANDLER"><block type="radioBroadcastMessage" id="lh3T2fY##|w(idt(bQ~@"><value name="msg"><shadow type="radioMessageCode" id="O-KR5T-7__Py[d1l86|W"><field name="MEMBER">message1</field></shadow></value></block></statement></block><block type="device_forever" id=";e5igO7^A{b-z(:mh9_u" x="205" y="0"></block><block type="radioOnMessageReceived" id="VKyJ=^UM(`RD^-CGuH0$" x="338" y="248"><value name="msg"><shadow type="radioMessageCode" id="j`mCf3r)K4u.2Jcx7pY2"><field name="MEMBER">message1</field></shadow></value><statement name="HANDLER"><block type="device_show_leds" id="rddB8$%+}UZGL:7_!};{"><field name="LEDS">`
+        # # . . . 
+        . # # . . 
+        . . # . . 
+        . . . # . 
+        . . . # #
+        `</field></block></statement></block></xml>
